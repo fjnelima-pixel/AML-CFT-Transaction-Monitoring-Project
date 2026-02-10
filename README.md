@@ -1,10 +1,10 @@
 ## AML/CFT Transaction Monitoring Project
-# Project Overview
+### Project Overview
 
 This project demonstrates a rule-based Anti-Money Laundering (AML/CFT) transaction monitoring framework using Python.
 It simulates how financial institutions identify, flag and assess potentially suspicious transactions in line with risk-based compliance principles.
 
-# Objectives
+### Objectives
 
 Detect potentially suspicious transactions using AML/CFT red-flag logic
 
@@ -14,7 +14,7 @@ Demonstrate analytical thinking aligned with FATF-based AML/CFT frameworks
 
 Produce outputs suitable for compliance review and escalation
 
-# AML Rules Implemented
+### AML Rules Implemented
 
 The following rule-based indicators were applied:
 
@@ -34,7 +34,7 @@ Transactions involving predefined high-risk countries
 
 Transactions involving PEPs above KES 500,000
 
-# Risk Scoring Methodology
+### Risk Scoring Methodology
 
 Each red flag contributes to a cumulative risk score:
 
@@ -48,7 +48,7 @@ Transactions with a risk score ≥ 5 are classified as High Risk
 
 High-risk transactions are flagged for further review or escalation
 
-# Key Outputs
+### Key Outputs
 
 Flagged suspicious transactions dataset
 
@@ -58,7 +58,7 @@ Summary statistics on flagged activity
 
 Visualization of suspicious transaction patterns
 
-# Key Insights
+### Key Insights
 
 Rule-based monitoring effectively highlights high-risk behavior such as structuring and PEP exposure
 
@@ -66,7 +66,7 @@ Risk scoring enables prioritization of alerts, supporting efficient compliance r
 
 Even simple AML rules can significantly reduce undetected financial crime risk when applied consistently
 
-# Limitations
+### Limitations
 
 Uses synthetic data for demonstration purposes
 
@@ -74,4 +74,4 @@ Rule-based logic does not replace advanced transaction monitoring systems or mac
 
 Thresholds are illustrative and should be calibrated to institutional risk appetite and regulatory guidance
 
-# By Faith N. Weyombo -Finance & AML/CFT Analyst
+### By Faith N. Weyombo -Finance & AML/CFT Analyst
