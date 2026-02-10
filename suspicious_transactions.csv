@@ -1,0 +1,10 @@
+transaction_id,customer_id,transaction_date,amount,transaction_type,country,is_pep,large_cash_flag,high_risk_country_flag,pep_flag,structuring_flag,risk_score,risk_level
+91,1071,2025-01-11,590096.25,transfer,Kenya,1,0,0,1,0,5,High Risk
+379,1094,2025-01-24,690844.91,transfer,Kenya,1,0,0,1,0,5,High Risk
+581,1067,2025-01-04,558057.27,cash,Uganda,1,0,0,1,0,5,High Risk
+726,1084,2025-01-08,951551.02,international,Kenya,1,0,0,1,0,5,High Risk
+842,1033,2025-01-09,828541.94,transfer,Kenya,1,0,0,1,0,5,High Risk
+853,1016,2025-01-17,1072722.34,cash,HighRiskCountry2,0,1,1,0,0,6,High Risk
+894,1033,2025-01-09,635035.52,transfer,Kenya,1,0,0,1,0,5,High Risk
+929,1020,2025-01-24,1231709.14,transfer,Kenya,1,0,0,1,0,5,High Risk
+985,1056,2025-01-09,1160472.72,transfer,Kenya,1,0,0,1,0,5,High Risk
